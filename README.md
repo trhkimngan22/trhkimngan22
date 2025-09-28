@@ -1,4 +1,4 @@
-- 👋 Hi, I’m trhkimngan.
+- 👋 Hi, I’m Tran Hoang Kim Ngan.
 - 🌱 I’m currently studying Computer Science at HCMC University of Science.
 - ⚡ Fun fact: I'm a cat lover😻.
 
